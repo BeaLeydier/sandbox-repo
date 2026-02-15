@@ -15,9 +15,9 @@ use "`usepath'", clear
 
 *Household id
 
-rename hhid idh
-destring idh, replace
-label var idh "Household id"
+rename hhid idh3
+destring idh3, replace
+label var idh3 "Household id"
 
 *Individual id
 
