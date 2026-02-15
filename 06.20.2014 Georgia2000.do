@@ -4,7 +4,7 @@
 clear 
 set more off
 
-cd "C:\Users\wb461621\Documents\HDN-SP\ECA\AgingConsumption\Data\Georgia 2000"
+cd "C:\Users\bl517\Documents\HDN-SP\ECA\AgingConsumption\Data\Georgia 2000"
 
 local usepath "C:\Users\wb461621\Documents\HDN-SP\ECA\AgingConsumption\Data\ECAPOV Data\Georgia\GEO_2000_HIS_v01_M_v01_A_ECAPOV.dta" 
 
@@ -15,9 +15,9 @@ use "`usepath'", clear
 
 *Household id
 
-rename hhid idh
-destring idh, replace
-label var idh "Household id"
+rename hhid idh2
+destring idh2, replace
+label var idh2 "Household id"
 
 *Individual id
 
