@@ -22,7 +22,7 @@ Papers processed: 0 / 25
 [✓] 16. Brodkin (2011) - Policy Work Street-Level Organizations (JPART)
 [✓] 17. Putnam (1993) - Making Democracy Work (Princeton UP)
 [✓] 18. Ostrom (1990) - Governing the Commons (Cambridge UP)
-[ ] 19. Fearon, Humphreys & Weinstein (2009) - Social Capital Community Africa (AER)
+[✓] 19. Platteau & Abraham (2002) - Participatory Development Community Imperfections (JDS)
 [ ] 8. Ravallion (2009) - How Relevant is Targeting (WBRO)
 [ ] 9. Brown, Ravallion & van de Walle (2018) - A Poor Means Test (J. Dev. Economics)
 [ ] 10. Platteau & Abraham (2002) - Participatory Development (J. Dev. Studies)
